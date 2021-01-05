@@ -3,23 +3,23 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Muhammad Buhari | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Muhammad Buhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Muhammad Buhar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Muhammad Buhar's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm [Muhammad Buhari!](https://blog.abhisheknaidu.tech/), a passionate self-taught Developer & Cyber Security Researcher 🚀 from Nigeria.
+Hi, I'm [Muhammad Buhari!](https://intelpeaktech.com/), a passionate self-taught Developer & Cyber Security Researcher 🚀 from Nigeria.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
