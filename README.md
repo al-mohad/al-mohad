@@ -26,13 +26,15 @@ Hi, I'm [Muhammad Buhari!](https://intelpeaktech.com/), a passionate self-taught
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning Reactjs & Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@em_bukhari](https://twitter.com/em_bukhari);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📝[Resume](https://drive.google.com/)
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -47,10 +49,10 @@ Hi, I'm [Muhammad Buhari!](https://intelpeaktech.com/), a passionate self-taught
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++        4 hrs           ████████████████▒░░░░░░░░   65.62 % 
-XML        1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Markdown   54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Flutter       4 hrs           ████████████████▒░░░░░░░░   65.62 % 
+Dart          1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Kotlin        54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Swift         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
 
