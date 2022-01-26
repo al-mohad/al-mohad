@@ -22,7 +22,7 @@
 <br>
 
 <h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"></h2>
-<h2><img align="right" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg" alt="devSouvik's Github Stats" height="200" width="600"></h2>
+<h2><img align="right" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg" alt="devSouvik's Github Stats" height=400" width="1000"></h2>
 
 </br>
 
