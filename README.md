@@ -1,5 +1,5 @@
-<h2> Hey there! I'm Muhammad Buhari. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Muhammad Buhari. <img src="https://github.com/al-mohad/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/al-mohad/al-mohad/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -21,11 +21,11 @@
 
 <br>
 
-<h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"></h2>
+<h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=al-mohad&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="al-mohad's Github Stats"></h2>
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohad&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/al-mohad/github-readme-stats)
 
 <h2><img align="right" src="https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg" alt="devSouvik's Github Stats" height=400" width="1000"></h2>
   
@@ -38,4 +38,4 @@
 &nbsp; <a href="mailto:gmbdairy@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [al-mohad](https://github.com/al-mohad)
