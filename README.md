@@ -4,21 +4,22 @@ Hi 👋 My name is Muhammad Buhari
 Full Stack Web Developer
 ------------------------
 
-Founder of CodeWithVetri \[https://codewithvetri.web.app/\] I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
+Founder of ********** \[https://**********.web.app/\] I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Vetrivel Ravi](http://codewithvetri.web.app/)
-* ✉️  You can contact me at [vetrivel.galaxy@gmai.com](mailto:vetrivel.galaxy@gmai.com)
-* 🚀  I'm currently working on [CodeWithVetri](http://codewithvetri.web.app/)
-* 🧠  I'm learning Advanced React Native
-* 🤝  I'm open to collaborating on Full Stack Web Developement
+* 🖥️  See my portfolio at [Muhammad Buhari](http://almohad.netlify.app/)
+* ✉️  You can contact me at [gmbdairy@gmai.com](mailto:gmbdairy@gmai.com)
+* 🚀  I'm currently working on [*********](http://*******.web.app/)
+* 🧠  I'm learning Advanced React & Vue
+* 🤝  I'm open to collaborating on Mobile Apps and Full Stack Web Developement 
 
-<a href="https://www.github.com/Vetrivel-VP" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/almohad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/almohad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
 <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/Flutter" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -49,11 +50,11 @@ src="https://img.shields.io/github/followers/Vetrivel-VP?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Vetrivel-VP"><img src="https://github-readme-stats.vercel.app/api?username=Vetrivel-VP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vetrivel-VP's GitHub stats" /></a>
+<a href="http://www.github.com/almohad"><img src="https://github-readme-stats.vercel.app/api?username=almohad-VP&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vetrivel-VP's GitHub stats" /></a>
 
 <a href="http://www.github.com/Vetrivel-VP"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vetrivel-VP&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Vetrivel-VP"><img src="https://activity-graph.herokuapp.com/graph?username=Vetrivel-VP&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/almohad"><img src="https://activity-graph.herokuapp.com/graph?username=almohad-VP&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Vetrivel-VP" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vetrivel-VP&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
