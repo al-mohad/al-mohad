@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Buhari
 Full Stack Web Developer
 ------------------------
 
-Founder of ********** [https://**********.web.app] I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
+Founder of [Deen Compass](http://deencompass.netlify.app/) I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Muhammad Buhari](http://almohad.netlify.app/)
@@ -58,13 +58,13 @@ src="https://img.shields.io/github/followers/almohad?logo=github&style=for-the-b
 
 <a href="https://github.com/al-mohad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohad&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<!-- <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/watchme_fullstack_sanity_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=watchme_fullstack_sanity_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Vetrivel-VP/foodapp-yt-mar22" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=foodapp-yt-mar22&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Vetrivel-VP/spotify-clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vetrivel-VP&repo=spotify-clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div> -->
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/almohad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
