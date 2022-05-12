@@ -4,12 +4,12 @@ Hi 👋 My name is Muhammad Buhari
 Full Stack Web Developer
 ------------------------
 
-Founder of IntelPeak Technologies \[https://intelpeaktech.com/\] I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
+Founder of ********** [https://**********.web.app] I do this because I love helping businesses showcase their full potential to the customer through software solutions, may that be a website and anything else. Also, I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years , I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in India
 * 🖥️  See my portfolio at [Muhammad Buhari](http://almohad.netlify.app/)
 * ✉️  You can contact me at [gmbdairy@gmai.com](mailto:gmbdairy@gmai.com)
-* 🚀  I'm currently working on [*********](http://almohad.netlify.app/)
+* 🚀  I'm currently working on [Deen Compass](http://deencompass.netlify.app/)
 * 🧠  I'm learning Advanced React & Vue
 * 🤝  I'm open to collaborating on Mobile Apps and Full Stack Web Developement 
 
