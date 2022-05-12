@@ -13,8 +13,8 @@ Founder of [Deen Compass](http://deencompass.netlify.app/) I do this because I l
 * 🧠  I'm learning Advanced React & Vue
 * 🤝  I'm open to collaborating on Mobile Apps and Full Stack Web Developement 
 
-<a href="https://www.github.com/almohad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/almohad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/al-mohad" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/al-mohad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
