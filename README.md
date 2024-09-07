@@ -1,18 +1,11 @@
-Hi 👋 My name is Muhammad Buhari
+Hi 👋
 ==============================
 
-Software Engineer | OSCP
+Software Engineer
 ------------------------
 
-I am proud to be a Muslim, living life according to the teachings of the Holy Qur'an and authentic narrations of the Holy Prophet (ﷺ), upon the methodology of the pious predecessors of the ummah (nation).
-
-I am a seeker of useful knowledge, who is willing to put his knowledge and experience towards achieving righteous goals that strengthen the functions of organizations, community and humanity at large.
-
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Almohad](https://almohad.netlify.app/)
 * ✉️  You can contact me at [gmbdairy@gmail.com](mailto:gmbdairy@gmail.com)
-* 🚀  I'm currently working on [Unlock Arewa, Deen Compass & Convoyage]
-* 🧠  I'm learning Advanced Blockhain & TypeScript
+* 🧠  I'm learning Advanced Blockchain & TypeScript
 * 🤝  I'm open to collaborating on Mobile Apps and Full Stack Web Developement 
 
 <a href="https://www.github.com/al-mohad" target="_blank" rel="noreferrer"><img
