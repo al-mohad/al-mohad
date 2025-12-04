@@ -4,8 +4,8 @@
 ---
 
 📬 **Reach me at:** [gmbdairy@gmail.com](mailto:gmbdairy@gmail.com)  
-🧠 **Currently Learning:** Advanced Blockchain & TypeScript  
-🤝 **Open to Collaborations:** Mobile Apps | Full Stack Web Development  
+🧠 **Currently Learning:** Advanced Blockchain & Rust  
+🤝 **Open to Collaborations:** Software Engineer | OSCP 
 
 <a href="https://www.github.com/al-mohad" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/al-mohad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
