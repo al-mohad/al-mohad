@@ -8,11 +8,10 @@
 
 ## About Me
 
-Senior Mobile Engineer at Commercial Bank with 6+ years of experience building high-performance, scalable mobile and web applications. I specialize in cross-platform development using Flutter, clean architecture patterns, and secure application design. Currently expanding expertise in advanced blockchain technologies and Rust programming.
+Senior Mobile Engineer with 6+ years of experience building high-performance, scalable mobile and web applications. I specialize in cross-platform development using Flutter, clean architecture patterns, and secure application design. Currently expanding expertise in advanced blockchain technologies and Rust programming.
 
-**📧 Contact:** [gmbdairy@gmail.com](mailto:gmbdairy@gmail.com)  
-**🔒 Certification:** Offensive Security Certified Professional (OSCP)  
-**💼 Current Role:** Mobile Engineer @ Commercial Bank, Doha  
+**📧 Connect with me:** [LinkedIn](https://www.linkedin.com/in/almohad/)  
+**🔒 Certification:** Offensive Security Certified Professional (OSCP)    
 **🌱 Learning:** Advanced Blockchain Development & Rust  
 **🎯 Interests:** Fintech, Cybersecurity, Mobile Architecture  
 **💡 Open For:** Collaboration on innovative software engineering projects
