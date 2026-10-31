@@ -1,134 +1,79 @@
-# Muhammad Buhari
-
-**Senior Software Engineer | Flutter & iOS Specialist | OSCP Certified**
-
-[![GitHub followers](https://img.shields.io/github/followers/al-mohad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/al-mohad)
-
----
-
-## About Me
-
-Senior Mobile Engineer with 6+ years of experience building high-performance, scalable mobile and web applications. I specialize in cross-platform development using Flutter, clean architecture patterns, and secure application design. Currently expanding expertise in advanced blockchain technologies and Rust programming.
-
-**📧 Connect with me:** [LinkedIn](https://www.linkedin.com/in/almohad/)  
-**🔒 Certification:** Offensive Security Certified Professional (OSCP)    
-**🌱 Learning:** Advanced Blockchain Development & Rust  
-**🎯 Interests:** Fintech, Cybersecurity, Mobile Architecture  
-**💡 Open For:** Collaboration on innovative software engineering projects
-
----
-
-## Technical Expertise
-
-### Mobile Development
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-</p>
-
-### Web Development
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
-</p>
-
-### Core Competencies
-- **Mobile:** Flutter, Dart, iOS Development, Android Development, Cross-Platform Apps
-- **Architecture:** Clean Architecture, BLoC, GetX, Provider, Riverpod, MVVM
-- **Web:** React.js, Vue.js, JavaScript, HTML5, CSS3, Responsive Design
-- **Testing:** Unit Testing, Widget Testing, Integration Testing, TDD
-- **DevOps:** GitLab CI/CD, Codemagic, GitHub Actions, Docker
-- **Cloud:** Firebase, AWS, Heroku, Azure
-- **Security:** Penetration Testing, Security Auditing, OSCP Certified
-- **Tools:** Git, Jira, Postman, VS Code, Android Studio, Xcode
-
----
-
-## Professional Experience
-
-**🏦 Mobile Engineer** @ Commercial Bank, Doha *(Oct 2023 - Present)*
-- Building enterprise-grade fintech applications for 100,000+ users
-- Implementing clean architecture and comprehensive testing strategies
-
-**📱 Mobile Developer** @ EF NETWORK LTD *(Feb 2022 - Nov 2023)*
-- Developed scalable mobile solutions using Flutter and clean architecture
-- Reduced production bugs by 40% through robust testing practices
-
-**💻 Software Engineer** @ IntelPeak Technologies *(Jul 2021 - Nov 2023)*
-- Full-stack development for startups using React.js, Vue.js, and Flutter
-- Managed CI/CD pipelines and multi-environment deployments
-
----
-
-## Community Involvement
-
-🎤 **Lead** @ Google Developer's Group  
-👨‍🏫 **Former Instructor** @ Kaduna ICT Hub  
-🌍 **Member** @ Andela Learning Community
-
----
-
-## GitHub Statistics
+<h1 align="center">Muhammad Buhari</h1>
 
 <p align="center">
-  <a href="https://github.com/al-mohad">
-    <img src="https://github-readme-stats.vercel.app/api?username=al-mohad&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  </a>
+  <b>Engineering Manager · Senior Full-Stack Engineer · Flutter Specialist</b><br/>
+  Building scalable fintech and mobile products. Abuja, Nigeria.
 </p>
 
 <p align="center">
-  <a href="https://github.com/al-mohad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=al-mohad&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/al-mohad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohad&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&exclude_repo=repo-name" alt="Top Languages" />
-  </a>
+  <a href="https://www.linkedin.com/in/almohad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.twitter.com/__almohad"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=al-mohad&label=Profile%20views&color=0891b2&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## Let's Connect
+## About
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/buhari-muhammad-36718875/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitter.com/__almohad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
-  <a href="https://www.github.com/al-mohad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/users/al-mohad" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </a>
-</p>
+I'm a software engineer with 8+ years of experience across mobile, backend, and web. I currently lead engineering at **Afri Lab AI / Sinnts**, where I own delivery of the SINNTS mobile app and its Node.js/NestJS services while mentoring a cross-functional team. Before that I built banking features for **Commercial Bank of Qatar** on Flutter and high-concurrency NestJS APIs.
 
----
+I care about Clean Architecture, test-driven development, and CI/CD that makes shipping boring.
+
+- Currently: leading engineering at Afri Lab AI / Sinnts
+- Learning: advanced blockchain development and Rust
+- Interests: fintech, application security, mobile architecture
+- Community: Lead at Google Developer Group · speaker at Hacktoberfest Kaduna 2026 · former instructor at Kaduna ICT Hub
+
+## Tech Stack
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Data, Cloud and DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+## Highlights
+
+- Cut transaction failures by 20% and improved API response times by 40% through payment-gateway microservices and tuning (MIRA Marketplace).
+- Reached 90% test coverage with TDD, reducing post-deployment bugs by 50%.
+- Scaled a mobile platform through 50% user growth with no significant downtime (Hawkish Group).
+- Trained 50+ developers at Kaduna ICT Hub; 80% moved into professional tech roles.
+
+## GitHub Stats
 
 <p align="center">
-  <i>💡 Open to innovative projects and collaboration opportunities in mobile engineering, fintech, and cybersecurity</i>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=al-mohad&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohad&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/almohad">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
-  </a>
-</p>
+## Connect
+
+Open to conversations on mobile engineering, fintech, and engineering leadership. Reach me on [LinkedIn](https://www.linkedin.com/in/almohad/) or [X](https://www.twitter.com/__almohad).
